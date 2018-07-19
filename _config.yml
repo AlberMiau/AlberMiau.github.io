@@ -28,7 +28,7 @@ navbar-links:
   Recursos:
     - Trabajo de Conciertos: "http://35.233.109.97/alberto/scorpionsalb/"
     - Wordpress: "http://35.233.109.97/alberto/albwordp/"
-    - Otro Portfolio: "http://35.233.109.97/alberto/portfal/"
+    - Otro Portfolio: "https://albermiau.github.io/portfolio/"
   Mi Página: "portada"
 
 # Image to show in the navigation bar - image must be a square (width = height)
